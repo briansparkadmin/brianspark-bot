@@ -2,7 +2,7 @@
   "name": "brianspark-bot",
   "version": "1.0.0",
   "dependencies": {
-    "@supabase/supabase-js": "^2.0.0",
-    "@google/genai": "^0.1.1"
+    "@supabase/supabase-js": "latest",
+    "@google/genai": "latest"
   }
 }
